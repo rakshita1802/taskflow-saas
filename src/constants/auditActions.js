@@ -1,0 +1,9 @@
+const AUDIT_ACTIONS = {
+  CREATE_TASK: 'CREATE_TASK',
+  UPDATE_TASK: 'UPDATE_TASK',
+  DELETE_TASK: 'DELETE_TASK'
+};
+
+module.exports = {
+  AUDIT_ACTIONS
+};
